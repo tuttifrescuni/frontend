@@ -2,7 +2,7 @@
 
 ![Travis Status](https://travis-ci.org/tuttifrescuni/frontend.svg?branch=master)
 
-Enjoy the best seasonal fruits & vegetables. A pet project from [@garciaechegaray](@garciaechegaray)
+Enjoy the best seasonal fruits & vegetables. A pet project from [@garciaechegaray](https://twitter.com/garciaechegaray)
 
 ## Prerequisites
 
